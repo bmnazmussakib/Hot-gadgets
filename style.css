@@ -1,0 +1,30 @@
+.container{
+    margin-bottom: 100px;
+}
+.carousel{
+    background-color: aliceblue;
+    padding: 40px 80px;
+    border-radius: 15px;
+}
+h1{
+    font-weight: 500;
+
+}
+
+.carousel h1, p, .btn{
+    margin: 30px;
+}
+
+.seeAll{
+    text-decoration: none;
+    color: orangered;
+}
+
+.card-head{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.card-body{
+    text-align: center;
+}
