@@ -15,6 +15,10 @@ h1{
     margin: 30px;
 }
 
+.card {
+    border-radius: 30px;
+}
+
 .card-deck{
     margin-bottom: 100px;
 }
@@ -30,9 +34,7 @@ h1{
     
 }
 
-.card {
-    border: none;
-}
+
 
 .category-head{
     
