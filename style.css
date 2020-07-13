@@ -15,16 +15,87 @@ h1{
     margin: 30px;
 }
 
-.seeAll{
-    text-decoration: none;
-    color: orangered;
+.card-deck{
+    margin-bottom: 100px;
 }
 
 .card-head{
     margin-bottom: 50px;
-    text-align: center;
+   
 }
 
 .card-body{
     text-align: center;
+    
+    
 }
+
+.card {
+    border: none;
+}
+
+.category-head{
+    
+}
+
+.underline{
+    background-color: orange; 
+    width: 120px; 
+    height: 8px; 
+    border-radius: 30px;
+    margin-top: 20px;
+    
+}
+
+.row{
+    margin-top: 100px;
+}
+
+.row h4{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.cat-img-bg{
+    background-color: white;
+    box-shadow: 5px 5px 50px lightgrey;
+    padding: 80px;
+    width: 100%;
+    
+}
+.cat-img{
+    width: 100%;
+}
+
+
+.bag{
+    display: flex;
+    flex-direction: column;
+    margin-top: 160px;
+    
+}
+
+.beauty-shoe{
+    display: flex;
+    flex-direction: column;
+}
+.pale-order{
+    width: 10%;
+}
+
+#src-btn{
+    border-color: orange;
+    color: orange;
+}
+
+#src-btn:hover{
+    border-color: orange;
+    color: white;
+    background-color: orange;
+    
+}
+.bg-light {
+    background-color: #fff !important;
+}
+
